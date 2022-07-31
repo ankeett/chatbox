@@ -1,7 +1,7 @@
-# chatbox
+# ChatBox
 A simple chat apps with different chat rooms
 
-##Usage
+#Usage
 ```
 npm install
 npm start
